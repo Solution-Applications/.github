@@ -49,9 +49,10 @@ All the **Solution Applications** python libraries are distributed to be shared 
 
 To contribute to Solution Applications:
 
-1. Create a GitHub account (if you don't have one). Follow the [**instructions**](https://dev.docs.ansys.com/contents/ansys_best_practices/code_management/github/index.html) provided on the Ansys Developer Portal.
+1. [Create](https://github.com/join) a GitHub account (if you don't already have one). We recommend to associate it with your Ansys email.
 
-2. Join the organization by visiting [Join Solution Applications](https://myapps.microsoft.com/signin/3a3f1570-1400-4b9e-84ca-97ab68d06251?tenantId=34c6ce67-15b8-4eff-80e9-52da8be89706).
+2. [Join](https://myapps.microsoft.com/signin/3a3f1570-1400-4b9e-84ca-97ab68d06251?tenantId=34c6ce67-15b8-4eff-80e9-52da8be89706) the organization.
+
 
 
 
